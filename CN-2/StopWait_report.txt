@@ -1,0 +1,9 @@
+
+srinjoy is sending data to soham--------------------
+Total packet sent = 58
+Effective packet sent = 36
+Total time taken = 0.855292 minutes
+Receiver Throughput =    404 bps
+Utilization percentage =  10.10 %
+Average Successful Transmission time of a packet = 1.425487 seconds/packet
+
