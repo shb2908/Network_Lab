@@ -1,0 +1,40 @@
+
+
+********** 27/10/2024 10:11:13 SENDER-1 STATS **********
+--> 4-Sender System
+--> Total Bits Transferred: 32
+--> Total Time Taken: 21.56 seconds
+--> Throughput: 1.484 bps
+********************************************************
+
+
+
+
+********** 27/10/2024 10:11:13 SENDER-3 STATS **********
+--> 4-Sender System
+--> Total Bits Transferred: 32
+--> Total Time Taken: 21.57 seconds
+--> Throughput: 1.484 bps
+********************************************************
+
+
+
+
+********** 27/10/2024 10:11:13 SENDER-2 STATS **********
+--> 4-Sender System
+--> Total Bits Transferred: 32
+--> Total Time Taken: 21.57 seconds
+--> Throughput: 1.484 bps
+********************************************************
+
+
+
+
+********** 27/10/2024 10:11:18 SENDER-4 STATS **********
+--> 4-Sender System
+--> Total Bits Transferred: 40
+--> Total Time Taken: 26.96 seconds
+--> Throughput: 1.484 bps
+********************************************************
+
+
